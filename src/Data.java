@@ -27,6 +27,7 @@ public class Data extends Initialize {
         for(int i = 0; i < i; i++){
             chervyArr[i] = chervy + six;
         }
+        return null;
     }
 
 }
